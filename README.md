@@ -1,4 +1,5 @@
-# Hi there, I'm Serieux 👋
+# Hi there👋 
+# 🥹 coffee? 👉👈: 0xc02534D4EE98978575D27b9B28bc7fa78b5F10F3 (ETH)
 <!--
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=serieuxBlack.serieuxBlack&left_color=green&right_color=red&left_text=Visitors)
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=serieuxblack.serieuxblack&left_color=blue&right_color=orange&left_text=Profile+Visitors)
@@ -13,7 +14,10 @@
 ## About Me
 - 🌱 I’m currently learning C.
 - 📫 How to reach me: serieuxblack@pm.me
+
+<!--
 - 🥹 coffee? 👉👈: 0xc02534D4EE98978575D27b9B28bc7fa78b5F10F3 (ETH)
+-->
 
 
 
