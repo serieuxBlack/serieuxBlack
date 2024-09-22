@@ -1,8 +1,8 @@
 # Hi there, I'm Serieux 👋
-
+<!--
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=serieuxBlack.serieuxBlack&left_color=green&right_color=red&left_text=Visitors)
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=serieuxblack.serieuxblack&left_color=blue&right_color=orange&left_text=Profile+Visitors)
-
+-->
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
