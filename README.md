@@ -12,7 +12,7 @@
 
 
 ## About Me
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning assem.
 - 📫 How to reach me: serieuxblack@pm.me
 
 <!--
